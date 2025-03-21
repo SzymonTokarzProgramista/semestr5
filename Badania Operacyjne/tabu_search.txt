@@ -1,0 +1,32 @@
+Pytanie 1 
+Algorytm metaheurystyczny
+
+Pytanie 2
+nie gwarantuje tego
+
+Pytanie 3
+Minimalizacja drogi potrzebnej do przebycia między przystankami
+
+Pytanie 4
+Algorytm generowania rozwiązania początkowego, algorytm poprawy
+
+Pytanie 5
+Dla tych samych punktów początkowych i końcowych program pokazał różne rozwiąnania początkowe, co jest spowodowane tym, że punkty sąsiednie są wybierane losowo.
+
+Pytanie 6
+Im jest bliżej to algorytm będzie potrzebował mniej czasu żeby znaleźć rozwiązanie optymalne
+
+Pytanie 7
+Delikatnie zmieniona trasa
+
+Pytanie 9
+Zakazywanie tych samych ruchów oraz unikanie cykli
+
+Pytanie 10
+Poprzednie rozwiązania
+
+Pytanie 14
+Kiedy przekroczymy liczbę iteracji, albo kiedy droga będzie mniejsza od tej zadanej
+
+Pytanie 15
+

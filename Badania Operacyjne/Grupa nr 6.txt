@@ -1,0 +1,37 @@
+Pytanie 1
+Algorytm heurystyczny
+
+Pytanie 2
+Ilość zmiennych decyzyjnych: 1
+Liczba ograniczeń: 9
+
+
+Pytanie 3
+Minimalizacja
+
+Pytanie 4
+generowanie rozwiązania początkowego i generowanie sąsiedztwa
+
+Pytanie 8
+
+
+Pytanie 9
+8
+
+Pytanie 10
+Zmienne prawdopodobieńśtwo od aktualnej temperatury pozwala na wyjście z minimum lokalnego.
+
+Pytanie 12
+Alfa to liniowy współczynnik zmiany temperatury z przedziału (0,1).
+
+Pytanie 13
+Powinien mieć wartość około 0,9.
+
+Pytanie 14
+O otrzymaniu najlepszego rozwiązania.
+
+Pytanie 15
+Osiągnięcie temperatury minimalnej oraz w podanej liczbie iteracji wartości wskaźnika jakości dla otrzymanych roziwązańróżnią się od siebie o nie więcej niż podana wartośc błędu bezwzględnego.
+
+Pytanie 16
+Błąd bezwzględny w kryterium 2 to bezwzględna warotść różnicy między kosztami dla rozwiązań otrzymanych w kolejnych iteracjach. Liczba iteracji to ilość iteracji, po których alogrytm zostanie przerwany, jężeli koszt dla kolejnych rozwiązań będzie się różnił o nie więcej niż podany błąd bezwzględny.

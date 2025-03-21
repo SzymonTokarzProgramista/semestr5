@@ -1,0 +1,40 @@
+1.Do jakiej grupy metod należy algorytm AG? 
+Algorytm genetyczny należy do grupy algorytmów ewolucyjnych.
+
+2.Czy algorytm znajduje rozwiązanie optymalne?
+Algorytmy genetyczne znajdują one rozwiązania bliskie optymalnym, ale niekoniecznie zawsze optymalne.
+3.Jaki jest rozwiązywany problem – jak definiowane jest zadanie - minimalizacja / maksymalizacja? 
+W naszym przypadku czyli optymalizacji trasy wiertła celem jest minimalizacja funkcji celu (czasu wiercenia), ponadto funkcja kary jest nakładana na funkcję w przypadku gdy kolejność rozwiązania nie spełnia narzuconej uprzednio kolejność.
+
+4.Sposób kodowania rozwiązania w AG? 
+Rozwiązanie w AG może być kodowane w naszym programie w sposób graficzny lub przy pomocy listy punktów
+
+5.Jaki zastosowano algorytm konstrukcyjny?
+Nie zastosowano żadnego algorytmu konstrukcyjnego
+
+ 6.Jakie znaczenie ma różnorodność (także różnice jakości) rozwiązań w populacji początkowej?
+Różnorodność rozwiązań w populacji początkowej ma niewielkie znaczenie w otrzymaniu ostatecznego rozwiązania.
+
+7.Jak zdefiniowano sąsiedztwo/otoczenie rozwiązania? 
+
+8.Ile możliwości definiowania różnych sąsiedztw daje aplikacja? 
+
+9.Jaka jest różnica między operatorami krzyżowania i mutacji?
+Krzyżowanie: Jest to proces, w którym dwie osobniki wymieniają się częścią swojego kodu genetycznego, co prowadzi do powstania nowych osobników (potomków).
+Mutacja: To proces modyfikacji kodu genetycznego pojedynczego osobnika, co prowadzi do zwiększenia różnorodności genetycznej populacji. 
+ 
+10.Specyfika operatorów (PMX, OX, CX) dla problemu TSP? 
+
+11.Jaka jest rola mechanizmu selekcji – zastosowane rodzaje?
+Rola mechanizmu selekcji, czyli dokonywania wyboru ma za zadanie zawęzić obszar poszukiwań do rozwiązań najbardziej obiecujących. W dokumentacji opisano dwa mechanizmy selekcji tj. Ruletka, Ranking
+
+12.Co oznacza parametr „Rodzice”, „Szansa mutacji” [%]?
+Rodzice [%]: Ten parametr określa procent populacji, która zostanie wybrana do tworzenia nowych osobników (potomków) w procesie krzyżowania. 
+Szansa mutacji [%]: Parametr ten określa prawdopodobieństwo wystąpienia mutacji w każdym nowym osobniku (potomku) wytworzonym przez krzyżowanie. Mutacja jest losową zmianą w kodzie genetycznym i służy do wprowadzenia różnorodności genetycznej do populacji
+
+12.Jakie parametry mają znaczenie jeśli chodzi o złozoność obliczeniową algorytmu? 
+13.Co pokazuje wykres przebiegu algorytmu? 
+14.Co możemy powiedzieć o zbieżności przebiegu algorytmu na podstawie wykresu funkcji celu? 
+15.Jakie zastosowano kryteria zakończenia obliczeń? 
+16.Czy rozwiązanie suboptymalne jest końcowym rozwiązaniem bieżącym?
+ 17.Dla jakich ustawień algorytmu uzyskano najlepsze wyniki?
